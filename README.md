@@ -256,6 +256,9 @@ Special thanks to:
 - Allen & Heath Xone K2
 - AKAI APC mini
 - loopMIDI
+- Python 3.9.2:1a79785
+- Roland A-300PRO
+- M-Audio Oxygen 49 (first edition)
 
 Let me know if you had success with your device.
 
